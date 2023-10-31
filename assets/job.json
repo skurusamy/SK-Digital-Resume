@@ -1,0 +1,26 @@
+{
+    "job1":{
+    "title":"Expedia Group | Software Development Engineer II - Seattle, USA",
+    "year":"Sep 2022 to July 2023",
+    "desctiption":"Developing and testing standard software applications using microservices along with AWS resources like S3, SQS to ensure they meet design requirements. Also, test and debug applications to make its prod ready.\n Designing and developing software applications in Groovy and performing multiple testing using karate, gatling, JUnit and also to make sure the unit test code coverage is greater than 85%.\n Hands on experience with troubleshooting production issue with the help of Splunk and Datadog and to make sure to identify the root cause of the issue. "
+    },
+    "job2":{
+        "title":"TATA Consultancy Services (Client: CVSHealth) | Assistant System Engineer – New Jersey, USA",
+        "year":"Aug 2020 to Sep 2022",
+        "desctiption":"Monitoring system performance to detect and resolve problems during deployment. \n  End to End client/customer interaction on a daily basis to resolve issues. \n  Develop and manage applications, upgrade existing applications and/or integrate applications with any new/existing application and databases with the help of MEAN stack."
+    },
+    "job3":{
+        "title":"GYFTGRAM | Full Stack Developer | Master’s Project – New York, USA",
+        "year":"Jan 2020 to May 2020",
+        "desctiption":"Developed cross channel application using MEAN Stack technology, that interacts with multiple applications in retrieving data from MongoDB and helps customers in purchasing online gift cards from Restaurants.\n Developed custom components using directives in Angular for designing custom HTML components.\n Worked in an Agile/Scrum environment to deliver high quality software."            
+    },
+    "job4":{
+        "title":"New Jersey Institute of Technology | Software Engineer – New Jersey, USA",
+        "year":"Sep 2019 to May 2020",
+        "desctiption":"Designed and Developed application using MEAN Stack to manage courses, Student and Faculty information for NJIT using MongoDB, Node Js, Angular Js and Express JS. \n Created a Web Proxy application using Socket Programming which acts as Proxy server and performs DNS operation, processing the request and providing back the response to the client.\n Developed and deployed a Python-based application using Django, Flask, FastApi,Streamlit web frameworks that integrates data from multiple sources and used RESTful web services"    },
+    "job5":{
+        "title":"Elementz Engineers Guild Private Limited | Android Developer | Intern– Kerala, India",
+        "year":"Dec 2017 to Mar 2018",
+        "desctiption":"Implemented Java based Android SDK for “Grocery shopping Android Application”, which makes billing in grocery easier.\n Basic Training in Kotlin for Mobile Applications.\n Undertaken training in MQTT Protocol and SPP protocol in Android in order to make devices communicateeasier using subscribe and Publish method.\n Experience in working with Agile environment and Waterfall Model." 
+    }
+}

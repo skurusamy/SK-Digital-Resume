@@ -1,0 +1,5 @@
+{
+    "Heart rate monitoring using Arduino" : "Designed to monitor the heart rate of the patient using pulse sensor which senses speed of blood in capillary veins and processed using Arduino.",
+    "Crane feedback management system": "Webpage designed to inquire feedback from customers which involved the concepts of servlets as Controller, JSP being used as a View. Also used JDBC to establish the connection between servlets and Databases.",
+    "NJIT Fitness Club Management" : "A Database oriented Project implemented using PHP, MySql in order to help employees and Members of the club to schedule exercise classes. Improved various SQL queries by tuning the joins, wild char searches and views which reduced the response time of search screens and load times of display screens by 40% to 45%."
+    }
